@@ -1,0 +1,6 @@
+@ApiTest_HostAddress = http://localhost:5091
+
+GET {{ApiTest_HostAddress}}/product/
+Accept: application/json
+
+###
